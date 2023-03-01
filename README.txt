@@ -1,4 +1,4 @@
-This aim of this model is to predict if an employee will be absent from work for more than 3 hours or less using logistic regression
+This aim of this model is to predict if an employee will be absent from work during work hours for more than 3 hours or less using logistic regression
 
 Features used are in the features_description.jpeg
        
